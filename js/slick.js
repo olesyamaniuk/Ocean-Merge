@@ -45,7 +45,7 @@ $(function () {
     dots: false,
     centerMode: true,
     cssEase: 'linear',
-    prevArrow: '.reviewss__list-left',
+    prevArrow: '.reviews__list-left',
     nextArrow: '.reviews__list-right',
   });
 });
